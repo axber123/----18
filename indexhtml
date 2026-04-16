@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="项目训练18.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=arrow_back_ios,arrow_forward_ios"
+    />
+  </head>
+  <body>
+    <div class="contains">
+      <div class="box1 content"></div>
+      <div class="box2 content"></div>
+      <div class="box3 content"></div>
+      <div class="box4 content"></div>
+      <div class="box5 content"></div>
+    </div>
+    <button class="btn left" id="left">
+      <span class="material-symbols-outlined"> arrow_back_ios </span>
+    </button>
+    <button class="btn right" id="right">
+      <span class="material-symbols-outlined"> arrow_forward_ios </span>
+    </button>
+
+    <script src="项目训练18.js"></script>
+  </body>
+</html>
